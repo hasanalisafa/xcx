@@ -2,7 +2,7 @@
 from telegram.ext import Application, CommandHandler, CallbackContext
 
 # Define the token
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '7737821487:AAFKIzeovzPX7tEqXI4ZDuFiPi6I-kZQbik'
 
 async def start(update: Update, context: CallbackContext) -> None:
     """Handler for /start command"""

@@ -1,0 +1,6 @@
+﻿python-telegram-bot==20.1
+flask==2.1.2
+selenium==4.3.0
+requests==2.27.1
+aiogram==2.18
+python-dotenv==0.19.0
